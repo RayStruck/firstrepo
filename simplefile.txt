@@ -1,0 +1,5 @@
+A (diff on line 1)
+B
+C (diff on line 3) new diff
+D
+E (diff on line 5)
